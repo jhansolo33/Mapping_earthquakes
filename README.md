@@ -1,4 +1,4 @@
-#  Mapping_Earthquakes
+#  Mapping_earthquakes
 
 ## Overview
 
