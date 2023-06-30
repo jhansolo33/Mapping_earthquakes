@@ -34,9 +34,6 @@ Step 4. The map has the earthquake data as an overlay on both the Streets and Sa
 ![image 8](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/48c8f4f8-bc88-4ff7-952b-6a1a5e1b9d59)
 
 ##  Challenge Maps:
-Additional Maps:
-
-![image 10](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/dda49fb5-4384-43ca-aa29-d89d2a9c090e)
 
 Additional Major Earthquake Data Map:
 
@@ -45,5 +42,9 @@ Additional Major Earthquake Data Map:
 Additional Tectonic Plate Data Map:
 
 ![image 9](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/e0df803f-ab96-4835-b671-5c8a680f8f9c)
+
+Additional Maps:
+
+![image 10](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/dda49fb5-4384-43ca-aa29-d89d2a9c090e)
 
 
