@@ -12,16 +12,27 @@ Software: JS, D3, Leaflet, JavaScript, JSON, GeoJSON and IO (Web Server), ECMASc
 
 Objectives • Create a branch from the master branch on GitHub. • Add, commit, and push data to a GitHub branch. • Merge a branch with the master branch on GitHub. • Retrieve data from a GeoJSON file. • Make API requests to a server to host geographical maps. • Populate geographical maps with GeoJSON data using JavaScript and the Data-Driven Documents (D3) library. • Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls. • Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps. • Render maps on a local server.
 
-Summary Step 1. Maps all recorded earthquakes in the past seven days.
+##  Summary 
+Step 1. Maps all recorded earthquakes in the past seven days.
+![image 5](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/8e57c961-ad6c-4640-bc6e-617bc083421a)
+
+
 
 Step 2. As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data in step 2 and varied the radius of each earthquake based on the magnitude.
-![image 10](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/dda49fb5-4384-43ca-aa29-d89d2a9c090e)
-
+![image 6](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/c23c8b49-9935-4827-b4c0-911813a674f8)
 
 Step 3. 
-lthough, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake in step 3.
+Even though, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake in step 3.
+![image 7](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/48ced4aa-74b1-4437-b0f8-d7483613b894)
 
-![image 12](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/5515bad7-be92-46fe-8a5f-819341e45eaf)
+
 
 Step 4. The map has the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.
-![image 13](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/490d0f36-d12b-4345-aa3a-3d4e6757fcb0)
+![image 8](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/48c8f4f8-bc88-4ff7-952b-6a1a5e1b9d59)
+
+
+##  Challenge Maps:
+
+![image 10](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/dda49fb5-4384-43ca-aa29-d89d2a9c090e)
+
+![image 12](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/5515bad7-be92-46fe-8a5f-819341e45eaf)
