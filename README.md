@@ -30,8 +30,7 @@ Even though, the size of the earthquake data based on magnitude looks great, itâ
 
 
 
-Step 4. The map has the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.
-
+Step 4. The map has the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on/off:
 ![image 8](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/48c8f4f8-bc88-4ff7-952b-6a1a5e1b9d59)
 
 ##  Challenge Maps:
