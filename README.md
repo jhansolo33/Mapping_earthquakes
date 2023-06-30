@@ -6,11 +6,10 @@ In this module, I used the Leaflet.js Application Programming Interface (API) to
 
 Resources: I used the Leaflet library to plot the data on a Mapbox map through an API request and created interactivity for the earthquake data. We added the USGS URL for earthquake data by navigating to the USGS Hazards Program, clicking the Earthquakes link to open the Real-time Data Feeds link and scrolled down to "GeoJSON Summary" Feed. There, we clicked the All Earthquakes link under the “Past 7 Days” heading.
 
-Data Source: majorAirports.json, torontoRoutes.json, tectonic_plate_starter_logic.js, tectonic_plate_starter_logic.js, tectonic_plate_starter_logic.js and index.html
+Data Source: majorAirports.json, torontoRoutes.json, tectonic_plate_starter_logic.js, and index.html.  *Saad Khan helped tutor me through the logic.
 
 Software: JS, D3, Leaflet, JavaScript, JSON, GeoJSON and IO (Web Server), ECMAScript and Visual Studio Code 1.50.0
-
-Objectives • Create a branch from the master branch on GitHub. • Add, commit, and push data to a GitHub branch. • Merge a branch with the master branch on GitHub. • Retrieve data from a GeoJSON file. • Make API requests to a server to host geographical maps. • Populate geographical maps with GeoJSON data using JavaScript and the Data-Driven Documents (D3) library. • Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls. • Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps. • Render maps on a local server.
+objectives • Create a branch from the master branch on GitHub. • Add, commit, and push data to a GitHub branch. • Merge a branch with the master branch on GitHub. • Retrieve data from a GeoJSON file. • Make API requests to a server to host geographical maps. • Populate geographical maps with GeoJSON data using JavaScript and the Data-Driven Documents (D3) library. • Add multiple map layers to geographical maps using Leaflet control plugins to add user interface controls. • Use JavaScript ES6 functions to add GeoJSON data, features, and interactivity to maps. • Render maps on a local server.
 
 ##  Summary 
 Step 1. Maps all recorded earthquakes in the past seven days.
