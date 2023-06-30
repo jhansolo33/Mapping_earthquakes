@@ -15,7 +15,13 @@ Objectives • Create a branch from the master branch on GitHub. • Add, commit
 Summary Step 1. Maps all recorded earthquakes in the past seven days.
 
 Step 2. As a first step in making the earthquake data more visually appealing, we added some styling to the earthquake data in step 2 and varied the radius of each earthquake based on the magnitude.
+![image 10](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/dda49fb5-4384-43ca-aa29-d89d2a9c090e)
 
-Step 3. Although, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake in step 3.
+
+Step 3. 
+lthough, the size of the earthquake data based on magnitude looks great, it’s hard to tell the difference between earthquakes within the same area. We come up with the idea to color-code the earthquakes based on magnitude. We, also, added the magnitude and location as a popup for each earthquake in step 3.
+
+![image 12](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/5515bad7-be92-46fe-8a5f-819341e45eaf)
 
 Step 4. The map has the earthquake data as an overlay on both the Streets and Satellite tile layers, so users can turn the data on and off.
+![image 13](https://github.com/jhansolo33/Mapping_earthquakes/assets/119264589/490d0f36-d12b-4345-aa3a-3d4e6757fcb0)
